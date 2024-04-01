@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2032954431.index
+/homepage/src/main/resources
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2966600408.index
+/mavenParentProject/src/main/java
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1511967431.index
+/mavenParentProject/src/main/java
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3375507878.index
+/Shopping/src/main/resources
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2833820596.index
+/account/src/main/resources
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1884337548.index
+/SecondWebProject2/src/main/resources
+/home/student/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/13434689.index
+/mavenParentProject/src/main/java
